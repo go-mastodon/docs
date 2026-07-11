@@ -1,0 +1,6 @@
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="go-mastodon">
+  <defs><linearGradient id="gocyan" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22CCE2"/><stop offset="1" stop-color="#0079A8"/></linearGradient></defs>
+  <rect width="256" height="256" rx="56" fill="url(#gocyan)"/>
+  <path d="M84 84h88a20 20 0 0 1 20 20v40a20 20 0 0 1 -20 20h-44l-32 26v-26h-12a20 20 0 0 1 -20 -20v-40a20 20 0 0 1 20 -20z" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <g stroke="#FFFFFF" stroke-width="0" fill="#FFFFFF"><circle cx="104" cy="124" r="9"/><circle cx="132" cy="124" r="9"/><circle cx="160" cy="124" r="9"/></g>
+</svg>
